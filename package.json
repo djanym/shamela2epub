@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@lesjoursfr/html-to-epub": "^4.2.1"
+  },
+  "scripts": {
+    "epub": "epub.js"
+  }
+}

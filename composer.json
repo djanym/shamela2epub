@@ -1,0 +1,5 @@
+{
+    "require": {
+        "hametuha/hamepub": "^1.2"
+    }
+}

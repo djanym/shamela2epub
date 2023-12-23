@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Kitab';
+    src: url('./fonts/Kitab-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Kitab';
+    src: url('./fonts/Kitab-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    direction: rtl;
+    /*background-color: #D4D4D4;*/
+    line-height: 1.7;
+    font-family: 'Kitab', sans-serif;
+    font-size: 18pt;
+    text-align: right;
+}
+
+hr {clear: both; color: #221122;}
+
+p {margin: 0;}
+
+.highlighted {
+    color: #bb0000;
+}
+
+.title {
+    color: #800000;
+    font-weight: bold;
+}
+
+.footnote-inline {
+    font-size: smaller;
+    font-style: italic;
+}
+
+.PageHead {font-style: italic}

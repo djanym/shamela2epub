@@ -1,0 +1,7 @@
+{
+  "src": "book_src/1",
+  "dst": "book_dst",
+  "title": "My Ebook",
+  "author": "Author name",
+  "publisher": "Publisher name",
+}
