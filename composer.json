@@ -1,5 +1,5 @@
 {
     "require": {
-        "hametuha/hamepub": "^1.2"
+        "ext-json": "*"
     }
 }

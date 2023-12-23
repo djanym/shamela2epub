@@ -6,7 +6,4 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Minicli\\' => array($vendorDir . '/minicli/minicli/src'),
-    'Masterminds\\' => array($vendorDir . '/masterminds/html5/src'),
-    'Assets\\' => array($vendorDir . '/minicli/minicli/tests/Assets'),
 );
