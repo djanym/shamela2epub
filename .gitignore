@@ -1,7 +1,8 @@
-# ignore everything in the root except the "wp-content" directory.
-/*
-import-images/
+.idea/
 node_modules/
+book_dst/
+book_src/
+!book_src/example/
 !docker
 !docker-compose.yml
 !.gitignore
@@ -11,40 +12,3 @@ node_modules/
 .DS_Store
 env_prod
 ~*
-
-# ignore everything in the "wp-content" directory, except:
-# "mu-plugins" directory
-# "plugins" directory
-# "themes" directory
-!wp-content/
-wp-content/*
-!wp-content/mu-plugins/
-!wp-content/plugins/
-!wp-content/themes/
-!wp-content/ngg/
-!wp-content/ngg_styles/
-
-# ignore specific themes
-wp-content/themes/iconic-one/
-wp-content/themes/twentyten/
-wp-content/themes/twentyeleven/
-wp-content/themes/twentytwelve/
-wp-content/themes/twentythirteen/
-wp-content/themes/twentyfourteen/
-wp-content/themes/twentyfifteen/
-wp-content/themes/twentysixteen/
-wp-content/themes/twentyseventeen/
-wp-content/themes/twentyeighteen/
-wp-content/themes/twentynineteen/
-wp-content/themes/twentytwenty/
-wp-content/themes/twentytwentyone/
-wp-content/themes/twentytwentytwo/
-wp-content/themes/twentytwentythree/
-wp-content/themes/twentytwentyfour/
-
-# ignore specific plugins
-wp-content/plugins/advanced-cron-manager/
-wp-content/plugins/fakerpress/
-wp-content/plugins/hello.php
-wp-content/plugins/akismet/
-wp-content/plugins/regenerate-thumbnails/

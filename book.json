@@ -1,5 +1,5 @@
 {
-  "src": "book_src/1",
+  "src": "book_src/example",
   "dst": "book_dst",
   "title": "My Ebook",
   "author": "Author name",
