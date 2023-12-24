@@ -1,7 +1,9 @@
 {
   "type": "module",
   "dependencies": {
-    "@lesjoursfr/html-to-epub": "^4.2.1"
+    "@lesjoursfr/html-to-epub": "^4.2.1",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
   },
   "scripts": {
     "epub": "epub.js"
