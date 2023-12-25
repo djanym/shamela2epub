@@ -1,7 +1,7 @@
 {
   "src": "book_src/example",
   "dst": "book_dst",
-  "title": "My Ebook",
-  "author": "Author name",
-  "publisher": "Publisher name"
+  "title": "حادي الأرواح إلى بلاد الأفراح",
+  "author": "ابن القيم",
+  "publisher": "دار عطاءات العلم (الرياض) - دار ابن حزم (بيروت)"
 }
