@@ -2,6 +2,7 @@
 node_modules/
 book_dst/
 book_src/
+book.json
 !book_src/example/
 !docker
 !docker-compose.yml
